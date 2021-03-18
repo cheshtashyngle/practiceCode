@@ -1,0 +1,3 @@
+/Users/cheshta/Documents/cheshta/Coding/kickStart/kickStartC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cheshta/Documents/cheshta/Coding/kickStart/kickStartC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cheshta/Documents/cheshta/Coding/kickStart/kickStartC++/cmake-build-debug/CMakeFiles/kickStartC__.dir
